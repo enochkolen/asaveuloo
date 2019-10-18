@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeechooya.k0t1k.site/sitemap.xml
